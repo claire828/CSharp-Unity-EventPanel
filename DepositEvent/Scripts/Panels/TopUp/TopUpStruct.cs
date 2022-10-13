@@ -72,8 +72,6 @@ public class TopUpStruct
     }
     public string FinishDateTitle { get { return PBSettingsV3.String[22036].Msg; } }
 
-    //public string PlayerBg { get { return "images/BigCardBg/BigCardBg0" + (int)Player.Attribute + ".jpg"; } }
-
     public string SendToMailMsg
     {
         get
